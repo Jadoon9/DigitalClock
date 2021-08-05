@@ -1,5 +1,5 @@
 # DigitalClock
-This app displays current time and date.
-Date method is used to calculate current time, date and day.
-conditional logic is used.
-css used for display.
+This app displays current time, date and day.
+Javascript Date method is used to calculate current time, date and day.
+Conditional logic is used.
+css used for styling display.
